@@ -1,0 +1,10 @@
+### How to run the code
+
+- conda activate testing
+- cd backend
+- npm install
+- npm run dev
+- cd ../frontend
+- npm install
+- npm run dev
+- 開啟 http://localhost:5173/
